@@ -1,1 +1,1 @@
-This is created by using vercel AI Prompts.
+It is created by using vercel AI Prompts.
